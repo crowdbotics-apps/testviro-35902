@@ -1211,7 +1211,10 @@
     redux-thunk "^2.4.1"
     reselect "^4.1.5"
 
-"@screens/about-the-app@file:./screens/about-the-app/":
+"@screens/about-the-app@file:./screens/about-the-app":
+  version "1.0.0"
+
+"@screens/activity-feed@file:./screens/activity-feed/":
   version "1.0.0"
 
 "@screens/add-payment-method@file:./screens/add-payment-method":
